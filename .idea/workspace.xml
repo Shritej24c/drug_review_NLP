@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07a5e86d-d692-4df4-8e30-5856a810ce88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +23,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2UU1v7qyb207pR2mS0c8NYK93Qx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -44,6 +50,12 @@
       <workItem from="1693553010586" duration="4879000" />
       <workItem from="1693572573323" duration="200000" />
       <workItem from="1693572802664" duration="35000" />
+      <workItem from="1693572852065" duration="383000" />
+      <workItem from="1693573296823" duration="90000" />
+      <workItem from="1693573409238" duration="84000" />
+      <workItem from="1693573496236" duration="171000" />
+      <workItem from="1693573678841" duration="51000" />
+      <workItem from="1693573741550" duration="140000" />
     </task>
     <servers />
   </component>
